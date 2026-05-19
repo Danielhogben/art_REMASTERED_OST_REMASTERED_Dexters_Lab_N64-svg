@@ -1,0 +1,6 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+        <rect width="400" height="400" fill="rgb(176,189,134)" />
+        <circle cx="200" cy="200" r="107" fill="rgb(49,62,7)" opacity="0.8" />
+        <polygon points="200,50 350,350 50,350" fill="white" opacity="0.3" />
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial" font-size="24" font-weight="bold">REMASTERED_OST_REMASTERED_Dexters_Lab_N64</text>
+    </svg>
